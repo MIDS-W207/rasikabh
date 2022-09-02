@@ -1,1 +1,1 @@
-# These are the notebooks and slides for live sessions with Rasika.
+# Notebooks and slides for Applied Machine Learning live sessions with Rasika.
